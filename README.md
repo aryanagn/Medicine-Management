@@ -1,3 +1,10 @@
-# Medicine-Management
+# PCCMEDICARE2.0 
+
 ### Medicine management application made using Java on Android Studio
-### Includes documentation attached as pdf files
+
+Track medication and dosages through reminders and calendar for dates. 
+
+### Tech stack: 
+Java, Android Studio, Android Studio Development Kit
+
+
