@@ -4,7 +4,5 @@
 
 Track medication and dosages through reminders and calendar for dates. 
 
-### Tech stack: 
-Java, Android Studio, Android Studio Development Kit
 
 
